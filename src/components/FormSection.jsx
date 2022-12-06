@@ -37,6 +37,7 @@ function FormSection() {
                   <label for="exampleFormControlTextarea1">Why Refereeing</label>
                   <textarea name="whyRefereeing" class="form-control" id="exampleFormControlTextarea1" rows="4"></textarea>
                 </div>
+                <button className="btn btn-submit">Submit!</button>
               </form>
             </div>
           </div>
