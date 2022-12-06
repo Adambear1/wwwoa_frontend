@@ -1,0 +1,47 @@
+import React from 'react'
+
+function Navbar() {
+  return (
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="/">
+              Home
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#about">
+              About
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#history">
+              History
+            </a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link" href="#join">
+              Join
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#contact">
+              Contact
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link link-to-site" id="not-allowed" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false">
+              Login
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  )
+}
+
+export default Navbar
