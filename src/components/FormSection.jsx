@@ -37,7 +37,10 @@ function FormSection() {
                   <label for="exampleFormControlTextarea1">Why Refereeing</label>
                   <textarea name="whyRefereeing" class="form-control" id="exampleFormControlTextarea1" rows="4"></textarea>
                 </div>
-                <button className="btn btn-submit">Submit!</button>
+                <button className="btn btn-submit" style={{backgroundColor: "rgba(255, 255, 255, .9)"}} onClick={(e)=> {
+                  e.preventDefault();
+                  console.log('do something')
+                }}>Submit!</button>
               </form>
             </div>
           </div>
