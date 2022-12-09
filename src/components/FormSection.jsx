@@ -6,7 +6,7 @@ function FormSection() {
       <div class="col-12">
         <div class="my-3">
           <div class="card join-card animate__animated animate__fadeInRight" id="join">
-            <h2>Join</h2>
+            <h2>Join Today!</h2>
             <div class="card-body">
               <form class="px-5">
                 <div class="form-group">

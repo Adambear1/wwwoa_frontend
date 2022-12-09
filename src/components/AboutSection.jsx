@@ -9,19 +9,7 @@ function AboutSection() {
             <h2 class="my-3">About</h2>
             <div class="card-body">
               <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text ever
-              since the 1500s, when an unknown printer took a galley of type and
-              scrambled it to make a type specimen book. It has survived not only
-              five centuries, but also the leap into electronic typesetting,
-              remaining essentially unchanged. It was popularised in the 1960s with
-              the release of Letraset sheets containing Lorem Ipsum passages, and
-              more recently with desktop publishing software like Aldus PageMaker
-              including versions of Lorem Ipsum. The standard chunk of Lorem Ipsum
-              used since the 1500s is reproduced below for those interested.
-              Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by
-              Cicero are also reproduced in their exact original form, accompanied
-              by English versions from the 1914 translation by H. Rackham.
+              Western Washington Wrestling Officials Association (WWWOA) is the premier destination for all wrestling officials in Western Washington. The organization covers King, Pierce, and Thurston counties, among others during special circumstance. Though the organization focuses on covering and officiating from youth organizations to high school varsity level, the organization is full of highly talented officials with vast experiences from all levels. For more information, please do not hesitate to reach out via <a href="#join" style={{color: "white", textDecoration: "none", fontSize: "bold"}}>submission form</a> or <a href="#contact" style={{color: "white", textDecoration: "none", fontSize: "bold"}}>contact links</a> below.
               </p>
             </div>
           </div>
@@ -35,15 +23,10 @@ function AboutSection() {
               <div class="card-body">
                 <blockquote class="blockquote mb-0">
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and typesetting
-                    industry. Lorem Ipsum has been the industry standard dummy text
-                    ever since the 1500s, when an unknown printer took a galley of
-                    type and scrambled it to make a type specimen book. It has
-                    survived not only five centuries, but also the leap into
-                    electronic typesetting, remaining essentially unchanged.
+                    This is the best organization I have taken part of in my life. From having experience officiating other spots, such as baseball and softball, the group of wrestling officials is very well organized and filled with an abundance of knowledge and experience. Would recommend to all with interest to join today!
                   </p>
                   <footer class="blockquote-footer">
-                    Someone famous in <cite title="Source Title">Source Title</cite>
+                    Member: <cite title="Source Title">Hugh Birgenheier</cite>
                   </footer>
                 </blockquote>
               </div>

@@ -12,7 +12,7 @@ function ContactInfoSection() {
                 <li id="menu-li">
                   <i class="fas fa-phone"></i>
                   <a href="tel:2535555555" id="menu-li-a">
-                    (253)-555-5555
+                    (253)-355-2021
                   </a>
                 </li>
                 <li id="menu-li">
@@ -21,8 +21,8 @@ function ContactInfoSection() {
                 </li>
                 <li id="menu-li">
                   <i class="fas fa-envelope-open-text"></i>
-                  <a href="mailto:example@mail.com" id="menu-li-a">
-                    example@mail.com
+                  <a href="mailto:hapbear@comcast.net" id="menu-li-a">
+                    hapbear@comcast.net
                   </a>
                 </li>
               </ul>
